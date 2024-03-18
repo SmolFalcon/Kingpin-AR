@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Hitman_B_2" size="10.000000 10.000000" />
+    <ImageTarget name="Hitman_B_1" size="10.000000 10.000000" />
+    <ImageTarget name="Hitman_B" size="10.000000 10.000000" />
+    <ImageTarget name="Bodyguard_B_1" size="10.000000 10.000000" />
+    <ImageTarget name="Bodyguard_B" size="10.000000 10.000000" />
+    <ImageTarget name="Kingpin_B" size="10.000000 10.000000" />
+    <ImageTarget name="Hitman_2" size="10.000000 10.000000" />
+    <ImageTarget name="Bodyguard_1" size="10.000000 10.000000" />
+    <ImageTarget name="Bodyguard" size="10.000000 10.000000" />
+    <ImageTarget name="Hitman_1" size="10.000000 10.000000" />
+    <ImageTarget name="Kingpin" size="10.000000 10.000000" />
+    <ImageTarget name="Hitman" size="10.000000 10.000000" />
+  </Tracking>
+</QCARConfig>
